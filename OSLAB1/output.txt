@@ -1,36 +1,35 @@
-total 5112
--rwxr-xr-x  1 root  wheel    22704  7 30 05:00 [
--r-xr-xr-x  1 root  wheel   618416  7 30 05:00 bash
--rwxr-xr-x  1 root  wheel    23648  7 30 05:00 cat
--rwxr-xr-x  1 root  wheel    30016  7 30 05:00 chmod
--rwxr-xr-x  1 root  wheel    29024  7 30 05:00 cp
--rwxr-xr-x  1 root  wheel   375824  7 30 05:00 csh
--rwxr-xr-x  1 root  wheel    28608  7 30 05:00 date
--rwxr-xr-x  1 root  wheel    32000  7 30 05:00 dd
--rwxr-xr-x  1 root  wheel    23392  7 30 05:00 df
--rwxr-xr-x  1 root  wheel    18128  7 30 05:00 echo
--rwxr-xr-x  1 root  wheel    54080  7 30 05:00 ed
--rwxr-xr-x  1 root  wheel    23104  7 30 05:00 expr
--rwxr-xr-x  1 root  wheel    18288  7 30 05:00 hostname
--rwxr-xr-x  1 root  wheel    18688  7 30 05:00 kill
--r-xr-xr-x  1 root  wheel  1278736  7 30 05:00 ksh
--rwxr-xr-x  1 root  wheel   121104  7 30 05:00 launchctl
--rwxr-xr-x  1 root  wheel    19040  7 30 05:00 link
--rwxr-xr-x  1 root  wheel    19040  7 30 05:00 ln
--rwxr-xr-x  1 root  wheel    38704  7 30 05:00 ls
--rwxr-xr-x  1 root  wheel    18592  7 30 05:00 mkdir
--rwxr-xr-x  1 root  wheel    24240  7 30 05:00 mv
--rwxr-xr-x  1 root  wheel   111280  7 30 05:00 pax
--rwsr-xr-x  1 root  wheel    51280  7 30 05:00 ps
--rwxr-xr-x  1 root  wheel    18272  7 30 05:00 pwd
--rwxr-xr-x  1 root  wheel    23968  7 30 05:00 rm
--rwxr-xr-x  1 root  wheel    18176  7 30 05:00 rmdir
--r-xr-xr-x  1 root  wheel   618480  7 30 05:00 sh
--rwxr-xr-x  1 root  wheel    18080  7 30 05:00 sleep
--rwxr-xr-x  1 root  wheel    32208  7 30 05:00 stty
--rwxr-xr-x  1 root  wheel    42400  7 30 05:00 sync
--rwxr-xr-x  1 root  wheel   375824  7 30 05:00 tcsh
--rwxr-xr-x  1 root  wheel    22704  7 30 05:00 test
--rwxr-xr-x  1 root  wheel    23968  7 30 05:00 unlink
--rwxr-xr-x  1 root  wheel    42704  7 30 05:00 wait4path
--rwxr-xr-x  1 root  wheel   610240  7 30 05:00 zsh
+b[ root -rwxr-xr-x
+bbash root -r-xr-xr-x
+bcat root -rwxr-xr-x
+bchmod root -rwxr-xr-x
+bcp root -rwxr-xr-x
+bcsh root -rwxr-xr-x
+bdate root -rwxr-xr-x
+bdd root -rwxr-xr-x
+bdf root -rwxr-xr-x
+becho root -rwxr-xr-x
+bed root -rwxr-xr-x
+bexpr root -rwxr-xr-x
+bhostname root -rwxr-xr-x
+bkill root -rwxr-xr-x
+bksh root -r-xr-xr-x
+blaunchctl root -rwxr-xr-x
+blink root -rwxr-xr-x
+bln root -rwxr-xr-x
+bls root -rwxr-xr-x
+bmkdir root -rwxr-xr-x
+bmv root -rwxr-xr-x
+bpax root -rwxr-xr-x
+bps root -rwsr-xr-x
+bpwd root -rwxr-xr-x
+brm root -rwxr-xr-x
+brmdir root -rwxr-xr-x
+bsh root -r-xr-xr-x
+bsleep root -rwxr-xr-x
+bstty root -rwxr-xr-x
+bsync root -rwxr-xr-x
+btcsh root -rwxr-xr-x
+btest root -rwxr-xr-x
+bunlink root -rwxr-xr-x
+bwait4path root -rwxr-xr-x
+bzsh root -rwxr-xr-x
