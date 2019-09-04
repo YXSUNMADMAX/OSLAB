@@ -18,4 +18,4 @@ a bonus
 b
 
 ## 课程网址
-[课程网址] (http://www.ybwu.org)
+http://ybwu.org
