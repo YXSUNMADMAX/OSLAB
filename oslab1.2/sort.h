@@ -1,6 +1,3 @@
-#ifndef SORT_H_INCLUDED
-#define SORT_H_INCLUDED
-
 #ifndef __sort_h__
 #define __sort_h__
 
@@ -16,6 +13,3 @@ typedef struct __rec_t {
 
 
 #endif // __sort_h__
-
-#endif // SORT_H_INCLUDED
-

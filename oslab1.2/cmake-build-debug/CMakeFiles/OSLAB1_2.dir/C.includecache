@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/madmaxkgb/Developer/OSLAB/OSLAB1.2/main.c
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+unistd.h
+-
+

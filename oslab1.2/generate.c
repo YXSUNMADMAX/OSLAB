@@ -9,15 +9,13 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 
-void
-usage(char *prog)
+void usage(char *prog)
 {
     fprintf(stderr, "usage: %s <-s random seed> <-n number of records> <-o output file>\n", prog);
     exit(1);
 }
 
-int
-main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
     // program assumes a 4-byte key in a 100-byte record
     assert(sizeof(rec_t) == 100);
@@ -80,3 +78,4 @@ main(int argc, char *argv[])
 
     return 0;
 }
+
